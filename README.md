@@ -65,7 +65,9 @@ Tools & Design
 
 > 💡 *“Code is the closest thing we have to a superpower.”*  
 > 🧠 *Keep learning, keep building, and stay curious!*
-
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg"/>
+</div>
 
 ### Files included
 - `contrib_snake.gif` — animated GIF (size: 2999.4 KB)
