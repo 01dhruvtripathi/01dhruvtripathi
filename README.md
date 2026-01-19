@@ -15,11 +15,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/01dhruvtripathi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/01dhruvtripathi)
-
----
 <div align="center">
 <img src="https://profile-readme-generator.com/assets/snake.svg"/>
 </div>
+---
+
 ## 💻 Tech Stack:
 Languages & Frameworks
 ----------------------
