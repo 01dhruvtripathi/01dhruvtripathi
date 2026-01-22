@@ -16,59 +16,54 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/01dhruvtripathi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/01dhruvtripathi)
 <div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg"/>
-</div>
 
-<div align="center">
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=ffffff" />
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Passionate+Learner" />
-</div>
-<div align="center">
+<!-- TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&width=800&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Open+Source+Contributor" />
 
-  <!-- Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=header&text=Welcome%20to%20My%20Profile&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<br>
 
-  <br>
+<!-- STATS -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=01dhruvtripathi&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=01dhruvtripathi&theme=tokyonight" />
 
-  <!-- Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=23&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Open+Source+Contributor" />
+<br>
 
-  <br><br>
+<!-- SNAKE -->
+<img src="https://profile-readme-generator.com/assets/snake.svg" />
 
-  <!-- Stats + Streak -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vision-friendly-dark&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+<br>
 
-  <br>
+<!-- SKILLS -->
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tensorflow,git,github&theme=dark" />
 
-  <!-- Snake Animation -->
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+<br>
 
-  <br><br>
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=01dhruvtripathi&theme=react-dark" />
 
-  <!-- Tech Stack -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,github,tensorflow&theme=dark" />
+<br>
 
-  <br><br>
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=01dhruvtripathi&theme=onedark&row=1&column=6" />
 
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+<br>
 
-  <br><br>
+<!-- QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" />
+<br>
+
+<!-- VISITOR -->
+<img src="https://komarev.com/ghpvc/?username=01dhruvtripathi&style=for-the-badge&color=blue" />
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 
 </div>
+
 
 ---
 
