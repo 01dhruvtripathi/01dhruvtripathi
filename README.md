@@ -76,6 +76,3 @@ Tools & Design
 
 ---
 
-*Tip:* GitHub caches images; if you update the GIF, it may take a few minutes to show the new version.
-
-Enjoy! — Gagandeep Singh
