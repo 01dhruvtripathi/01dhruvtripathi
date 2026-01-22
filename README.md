@@ -18,7 +18,60 @@
 <div align="center">
 <img src="https://profile-readme-generator.com/assets/snake.svg"/>
 </div>
+
+<div align="center">
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Passionate+Learner" />
+</div>
+<div align="center">
+
+  <!-- Header Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=header&text=Welcome%20to%20My%20Profile&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+
+  <br>
+
+  <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=23&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Open+Source+Contributor" />
+
+  <br><br>
+
+  <!-- Stats + Streak -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vision-friendly-dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Snake Animation -->
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+
+  <br><br>
+
+  <!-- Tech Stack -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,github,tensorflow&theme=dark" />
+
+  <br><br>
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+
+  <br><br>
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" />
+
+</div>
+
 ---
+
 
 ## 💻 Tech Stack:
 Languages & Frameworks
